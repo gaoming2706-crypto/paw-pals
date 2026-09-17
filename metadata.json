@@ -1,0 +1,6 @@
+{
+  "name": "宝贝宠物 PawPals",
+  "description": "专为爱宠打造的数字化宠物生活与健康护照应用，集运动漫步、芯片身份证、健康营养追踪、同城团建及专属好物商城于一体。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
